@@ -1,0 +1,28 @@
+name: Backend Tests Demo
+
+on:
+  push:
+    branches:
+      - 2-github-actions-proof-of-concept
+
+jobs:
+  backend-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.9"
+
+      - name: Install Dependencies
+        run: |
+          cd backend
+          pip3 install -r requirements.txt
+
+      - name: Run Tests
+        run: |
+          cd backend
+          python3 -m unittest discover
