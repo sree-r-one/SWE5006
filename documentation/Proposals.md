@@ -1,6 +1,9 @@
 # Dashboard Application
 
 A tool to visualise the different types of data and auto generate reports for a company XYZ
+- we can have a chatbot to ask questions about a topic
+- If really keen, we can even deploy an AI model to respond based on the dataset that we have prepared
+- We can also add a mobile application as a frontend 
 
 # ROS Control Interface
 
