@@ -20,8 +20,10 @@ A tool to visualise the different types of data and auto generate reports for a 
 ### Backend 
 - Python
 - FastAPI
+### Mobile Application 
+- Android
 ### Database
-- MonoDB
+- MongoDB
 - PosgreSQL
 ### Devops 
 - Github Actions
