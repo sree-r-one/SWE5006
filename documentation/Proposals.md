@@ -11,7 +11,7 @@ A tool to visualise the different types of data and auto generate reports for a 
 - REST API
 - Chatbot implementation
 - Introduction Web page
-- 
+  
 ## Proposed Stack
 ### Frontend 
 - React
