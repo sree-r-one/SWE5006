@@ -1,4 +1,4 @@
-# Food Recommender System 
+# Food and Workout Recommender System 
 A lot of people are having a tough time having a healthy life, including maintaining weight and an active lifestyle. 
 
 The application can have the following features
@@ -6,7 +6,9 @@ The application can have the following features
 - Application will analyse and suggest a workout schedule and food (based on preferences)
 - User can also get recommendations on what can be done and motivation
 - Gamification
-- Helpful activities 
+- Helpful activities
+- Integration into Google API for food places
+- Integration into weather API for workouts 
 
 # Dashboard Application
 
