@@ -8,7 +8,12 @@ The application can have the following features
 - Gamification
 - Helpful activities
 - Integration into Google API for food places
-- Integration into weather API for workouts 
+- Integration into weather API for workouts
+
+## References 
+1. [Park Connector API](https://data.gov.sg/datasets/d_a69ef89737379f231d2ae93fd1c5707f/view)
+2. [Gym API](https://data.gov.sg/datasets?topics=health&page=1&resultId=d_b3ae090692ecf632116c9885cfbd3424)
+3. [Parks API](https://data.gov.sg/datasets?topics=health&page=1&resultId=d_99b71f5d34cf57a3a592fbfdef1f42b6)
 
 # Dashboard Application
 
