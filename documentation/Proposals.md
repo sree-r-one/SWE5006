@@ -1,3 +1,13 @@
+# Food Recommender System 
+A lot of people are having a tough time having a healthy life, including maintaining weight and an active lifestyle. 
+
+The application can have the following features
+- user inputs the current weight and target weight.
+- Application will analyse and suggest a workout schedule and food (based on preferences)
+- User can also get recommendations on what can be done and motivation
+- Gamification
+- Helpful activities 
+
 # Dashboard Application
 
 A tool to visualise the different types of data and auto generate reports for a company XYZ
