@@ -1,3 +1,15 @@
+# Explore Singapore 
+Singapore is a metropolitan city with the very rich culture and history. It also has a lot of attractions, indoor and outdoor to explore. XploreSingpore is an application is an application that will enable Locals and Visitors alike to explore about Singapore in as many layers as they like and learn more. 
+
+## Features 
+- ChatGPT powered itinerary planner
+- Users able to collect and save the places
+- Users can also comment and share their experience and tips for the trip
+- Users can also Zoom in and Explore Singapore on a map and explore its hidden places
+- There will also be a option to find the vibrant food scenary
+- Various types of itineraries for different profiles of visitors like honeymoon couples, Parents with infants, Retirees
+- Links to various attractions and its ticketing systems integrated
+
 # Food and Workout Recommender System 
 A lot of people are having a tough time having a healthy life, including maintaining weight and an active lifestyle. 
 
