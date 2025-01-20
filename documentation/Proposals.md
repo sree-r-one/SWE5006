@@ -10,10 +10,15 @@ Singapore is a metropolitan city with the very rich culture and history. It also
 - Various types of itineraries for different profiles of visitors like honeymoon couples, Parents with infants, Retirees
 - Links to various attractions and its ticketing systems integrated
 
+## Features Wishlist 
+- 
 ## Concerns 
 
 # Property Rental Rating Application
 A Property rental application with rating system
+
+## Features Wishlist 
+- 
 
 ## Concerns 
 - How do we get the data for the application
