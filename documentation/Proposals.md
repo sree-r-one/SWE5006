@@ -16,8 +16,10 @@ Singapore is a metropolitan city with the very rich culture and history. It also
 - Do we have enough ability to materialise the idea?
 - Admin portal feature to add articles and content
 
-# Property Rental Rating Application
-A Property rental application with rating system
+# Property Rental Rating/Review Application (RenterScore)
+
+## Problem Statement
+There are many property listing platforms, but they often have duplicate listings, lack detailed information, and make it time-consuming to find a rental property. Renters also face issues like scammers asking for deposits before viewings and unexpected problems after signing a lease due to differing expectations. A clear, reliable rating system could help address these problems. This project aims to create an app that provides structured feedback and ratings for tenants, property agents, and landlords.
 
 ## Features Wishlist  
 
