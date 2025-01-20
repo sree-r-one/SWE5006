@@ -11,14 +11,15 @@ Singapore is a metropolitan city with the very rich culture and history. It also
 - Links to various attractions and its ticketing systems integrated
 
 ## Features Wishlist 
-- 
+
 ## Concerns 
+- Do we have enough ability to materialise the idea?
+- Admin portal feature to add articles and content
 
 # Property Rental Rating Application
 A Property rental application with rating system
 
-## Features Wishlist 
-- 
+## Features Wishlist  
 
 ## Concerns 
 - How do we get the data for the application
