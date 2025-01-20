@@ -24,8 +24,6 @@ There are many property listing platforms, but they often have duplicate listing
 ## Objective of the Project
 To create an app that allows tenants, property agents, and landlords to rate rental properties based on key criteria such as property condition, pricing, and communication. The goal is to provide clear, structured feedback to improve decision-making and enhance trust in the rental process.
 
-## Features Wishlist  
-
 ## Key Features
 1.	Tenant Profile:
 Tenants can create and maintain their own profiles, including information such as rental history, preferred property types, budget, and location preferences. This allows landlords and agents to view potential renters' background, making the rental process more efficient.
@@ -46,6 +44,8 @@ Tenants can search for properties based on key criteria such as available date, 
 Users will receive updates on new listings, rental suggestions, lease ending or renewal due, rating updates, and messages from property agents or landlords.
 9.	Report and Dispute System:
 Tenants can flag inappropriate or misleading ratings and reviews, ensuring the platform remains trustworthy.
+
+## Features Wishlist  
 
 ## Concerns 
 - How do we get the data for the application
