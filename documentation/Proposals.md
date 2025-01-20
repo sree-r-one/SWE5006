@@ -11,10 +11,16 @@ Singapore is a metropolitan city with the very rich culture and history. It also
 - Links to various attractions and its ticketing systems integrated
 
 ## Features Wishlist 
+- Maybe integrating with the hotel price comparision feature.
+- To achive comment and sharing parts, we need to have a signup/signin feature. and of course the corresponding functions.
+- Having a CMS(content management system) to regulate the content published.
+- Supporting navigation and search feature. Maybe by jumping to citymapper / google map APP.
 
 ## Concerns 
 - Do we have enough ability to materialise the idea?
 - Admin portal feature to add articles and content
+- Is ChatGPT reliable?
+- How do we match the place ChatGPT gives with the actual place? In other words, how to handle the alias name. e.g. ChatGPT gives a place name as "NUS" but the actual name is "National University of Singapore". (if we do need to handle this scenario)
 
 # Property Rental Rating/Review Application (RenterScore)
 
@@ -46,11 +52,16 @@ Users will receive updates on new listings, rental suggestions, lease ending or 
 Tenants can flag inappropriate or misleading ratings and reviews, ensuring the platform remains trustworthy.
 
 ## Features Wishlist  
+- Introduce a chatbot to help users find their room based on their preferences.
+- Maybe need a CMS as well.
+- Tenant / Agent / Landlord ratings.
 
 ## Concerns 
 - How do we get the data for the application
 - Compliance and legal aspect of crawling data across different property sites
-- How do we mange duplicate entries
+- How do we manage duplicate entries
+- How do we identify the property? Because there is no house number like #21-3-304 on the platform. (maybe due to privacy protection? landloard might not want to disclose the exact location)
+- Are ratings sufficient enough to be used for comparison? because the lease term is long and not everyone want to rate after move out.
 
 # ~Food and Workout Recommender System~
 A lot of people are having a tough time having a healthy life, including maintaining weight and an active lifestyle. 
