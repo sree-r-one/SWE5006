@@ -1,0 +1,32 @@
+# Ignore Python cache and temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore any log files
+*.log
+
+# Ignore SQLite database files (if you're using SQLite for development)
+*.sqlite3
+
+# Ignore other unnecessary files
+*.bak
+*.swp
+
+# Ignore local IDE/editor configurations
+.vscode/
+.idea/
+*.iml
+
+# Ignore Docker-related files (if you don't want them in the image)
+Dockerfile
+docker-compose.yml
+.dockerignore
