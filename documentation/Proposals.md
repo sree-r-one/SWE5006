@@ -1,7 +1,9 @@
-# Explore Singapore 
-Singapore is a metropolitan city with the very rich culture and history. It also has a lot of attractions, indoor and outdoor to explore. XploreSingpore is an application is an application that will enable Locals and Visitors alike to explore about Singapore in as many layers as they like and learn more. 
+# Explore Singapore
 
-## Features 
+Singapore is a metropolitan city with the very rich culture and history. It also has a lot of attractions, indoor and outdoor to explore. XploreSingpore is an application is an application that will enable Locals and Visitors alike to explore about Singapore in as many layers as they like and learn more.
+
+## Features
+
 - ChatGPT powered itinerary planner
 - Users able to collect and save the places
 - Users can also comment and share their experience and tips for the trip
@@ -10,13 +12,21 @@ Singapore is a metropolitan city with the very rich culture and history. It also
 - Various types of itineraries for different profiles of visitors like honeymoon couples, Parents with infants, Retirees
 - Links to various attractions and its ticketing systems integrated
 
-## Features Wishlist 
+> Intitial version of API integration completed at `9-maps-proof-of-concept`
+
+- So theoretically, we should be able to ovelay the information as required.
+
+![api integrated](../img/api-int.png)
+
+## Features Wishlist
+
 - Maybe integrating with the hotel price comparision feature.
 - To achive comment and sharing parts, we need to have a signup/signin feature. and of course the corresponding functions.
 - Having a CMS(content management system) to regulate the content published.
 - Supporting navigation and search feature. Maybe by jumping to citymapper / google map APP.
 
-## Concerns 
+## Concerns
+
 - Do we have enough ability to materialise the idea?
 - Admin portal feature to add articles and content
 - Is ChatGPT reliable?
@@ -25,38 +35,43 @@ Singapore is a metropolitan city with the very rich culture and history. It also
 # Property Rental Rating/Review Application (RenterScore)
 
 ## Problem Statement
+
 There are many property listing platforms, but they often have duplicate listings, lack detailed information, and make it time-consuming to find a rental property. Renters also face issues like scammers asking for deposits before viewings and unexpected problems after signing a lease due to differing expectations. A clear, reliable rating system could help address these problems. This project aims to create an app that provides structured feedback and ratings for tenants, property agents, and landlords, focusing on transparency, fairness, and constructive insights to improve the rental process for all parties involved.
 
 ## Objective of the Project
+
 To create an app that allows tenants, property agents, and landlords to rate rental properties based on key criteria such as property condition, pricing, and communication. The goal is to provide clear, structured feedback to improve decision-making and enhance trust in the rental process.
 
 ## Key Features
-1.	Tenant Profile:
-Tenants can create and maintain their own profiles, including information such as rental history, preferred property types, budget, and location preferences. This allows landlords and agents to view potential renters' background, making the rental process more efficient.
-2.	Agent and Landlord Profiles:
-Property agents and landlords can create profiles to track their listings and ratings, ensuring transparency and accountability.
-3.	Property Ratings:
-Users (tenants, property agents, landlords) can rate rental properties based on multiple criteria such as property condition, pricing, and communication etc.
-4.	Structured Feedback:
-Tenants, property agents, and landlords can leave detailed feedback to provide more context to the ratings, ensuring reviews are informative and constructive.
-5.	Property Comparison Tool:
-A feature that allows tenants to compare multiple properties based on their ratings, price, and feedback to make more informed decisions.
-6.	Verification Process:
-To ensure authenticity, renters and property agents can verify their identities and past experiences, reducing the chances of fake reviews or scams.
 
-7.	Search and Filter Options:
-Tenants can search for properties based on key criteria such as available date, location, price range, property type, and ratings to find the best options faster.
-8.	Notification System:
-Users will receive updates on new listings, rental suggestions, lease ending or renewal due, rating updates, and messages from property agents or landlords.
-9.	Report and Dispute System:
-Tenants can flag inappropriate or misleading ratings and reviews, ensuring the platform remains trustworthy.
+1. Tenant Profile:
+   Tenants can create and maintain their own profiles, including information such as rental history, preferred property types, budget, and location preferences. This allows landlords and agents to view potential renters' background, making the rental process more efficient.
+2. Agent and Landlord Profiles:
+   Property agents and landlords can create profiles to track their listings and ratings, ensuring transparency and accountability.
+3. Property Ratings:
+   Users (tenants, property agents, landlords) can rate rental properties based on multiple criteria such as property condition, pricing, and communication etc.
+4. Structured Feedback:
+   Tenants, property agents, and landlords can leave detailed feedback to provide more context to the ratings, ensuring reviews are informative and constructive.
+5. Property Comparison Tool:
+   A feature that allows tenants to compare multiple properties based on their ratings, price, and feedback to make more informed decisions.
+6. Verification Process:
+   To ensure authenticity, renters and property agents can verify their identities and past experiences, reducing the chances of fake reviews or scams.
 
-## Features Wishlist  
+7. Search and Filter Options:
+   Tenants can search for properties based on key criteria such as available date, location, price range, property type, and ratings to find the best options faster.
+8. Notification System:
+   Users will receive updates on new listings, rental suggestions, lease ending or renewal due, rating updates, and messages from property agents or landlords.
+9. Report and Dispute System:
+   Tenants can flag inappropriate or misleading ratings and reviews, ensuring the platform remains trustworthy.
+
+## Features Wishlist
+
 - Introduce a chatbot to help users find their room based on their preferences.
 - Maybe need a CMS as well.
 - Tenant / Agent / Landlord ratings.
 
-## Concerns 
+## Concerns
+
 - How do we get the data for the application
 - Compliance and legal aspect of crawling data across different property sites
 - How do we manage duplicate entries
@@ -64,9 +79,11 @@ Tenants can flag inappropriate or misleading ratings and reviews, ensuring the p
 - Are ratings sufficient enough to be used for comparison? because the lease term is long and not everyone want to rate after move out.
 
 # ~Food and Workout Recommender System~
-A lot of people are having a tough time having a healthy life, including maintaining weight and an active lifestyle. 
+
+A lot of people are having a tough time having a healthy life, including maintaining weight and an active lifestyle.
 
 The application can have the following features
+
 - user inputs the current weight and target weight.
 - Application will analyse and suggest a workout schedule and food (based on preferences)
 - User can also get recommendations on what can be done and motivation
@@ -75,13 +92,11 @@ The application can have the following features
 - Integration into Google API for food places
 - Integration into weather API for workouts
 
-## References 
+## References
+
 1. [Park Connector API](https://data.gov.sg/datasets/d_a69ef89737379f231d2ae93fd1c5707f/view)
 2. [Gym API](https://data.gov.sg/datasets?topics=health&page=1&resultId=d_b3ae090692ecf632116c9885cfbd3424)
 3. [Parks API](https://data.gov.sg/datasets?topics=health&page=1&resultId=d_99b71f5d34cf57a3a592fbfdef1f42b6)
-
-
-
 
 # ~Dashboard Application~
 
