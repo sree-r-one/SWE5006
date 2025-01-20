@@ -1,36 +1,14 @@
 import React from "react";
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  Outlet,
-} from "react-router-dom";
-import { Footer, Navbar } from "./components/Nav";
-import { Home, About, Error, Dashboard, Project } from "./pages";
-
-const MainLayout = () => {
-  return (
-    <div>
-      <Navbar />
-      <Outlet />
-      <Footer />
-    </div>
-  );
-};
+import LeafletMap from "./components/Leafletmap";
 
 const App = () => {
   return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<MainLayout />}>
-          <Route index element={<Home />} />
-          <Route path="about" element={<About />} />
-          <Route path="*" element={<Error />} />
-          <Route path="dashboard" element={<Dashboard />} />
-          <Route path="projects/:projectId" element={<Project />} />
-        </Route>
-      </Routes>
-    </Router>
+    <div className="min-h-screen bg-gray-50">
+      <h1 className="py-4 text-center text-3xl font-bold">
+        Leaflet Map Example
+      </h1>
+      <LeafletMap />
+    </div>
   );
 };
 
