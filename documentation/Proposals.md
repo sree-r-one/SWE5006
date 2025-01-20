@@ -27,7 +27,7 @@ The application can have the following features
 2. [Gym API](https://data.gov.sg/datasets?topics=health&page=1&resultId=d_b3ae090692ecf632116c9885cfbd3424)
 3. [Parks API](https://data.gov.sg/datasets?topics=health&page=1&resultId=d_99b71f5d34cf57a3a592fbfdef1f42b6)
 
-# Dashboard Application
+# ~Dashboard Application~
 
 A tool to visualise the different types of data and auto generate reports for a company XYZ
 
@@ -75,10 +75,10 @@ A tool to visualise the different types of data and auto generate reports for a 
 
 ![conti-dashboard-app](../img/conti-dashboard-app.jpg)
 
-# ROS Control Interface
+# ~ROS Control Interface~
 
 A Tool to control the interface between a ROS operating system in a Robot)
 
-# A Mental Health Support Chatbot
+# ~A Mental Health Support Chatbot~
 
 A Web application that will help people have a voice to listen to, powered by AI
