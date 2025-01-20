@@ -10,7 +10,17 @@ Singapore is a metropolitan city with the very rich culture and history. It also
 - Various types of itineraries for different profiles of visitors like honeymoon couples, Parents with infants, Retirees
 - Links to various attractions and its ticketing systems integrated
 
-# Food and Workout Recommender System 
+## Concerns 
+
+# Property Rental Rating Application
+A Property rental application with rating system
+
+## Concerns 
+- How do we get the data for the application
+- Compliance and legal aspect of crawling data across different property sites
+- How do we mange duplicate entries
+
+# ~Food and Workout Recommender System~
 A lot of people are having a tough time having a healthy life, including maintaining weight and an active lifestyle. 
 
 The application can have the following features
@@ -27,7 +37,6 @@ The application can have the following features
 2. [Gym API](https://data.gov.sg/datasets?topics=health&page=1&resultId=d_b3ae090692ecf632116c9885cfbd3424)
 3. [Parks API](https://data.gov.sg/datasets?topics=health&page=1&resultId=d_99b71f5d34cf57a3a592fbfdef1f42b6)
 
-# Property Rental Rating Application
 
 
 
