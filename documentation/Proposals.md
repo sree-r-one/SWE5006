@@ -19,9 +19,33 @@ Singapore is a metropolitan city with the very rich culture and history. It also
 # Property Rental Rating/Review Application (RenterScore)
 
 ## Problem Statement
-There are many property listing platforms, but they often have duplicate listings, lack detailed information, and make it time-consuming to find a rental property. Renters also face issues like scammers asking for deposits before viewings and unexpected problems after signing a lease due to differing expectations. A clear, reliable rating system could help address these problems. This project aims to create an app that provides structured feedback and ratings for tenants, property agents, and landlords.
+There are many property listing platforms, but they often have duplicate listings, lack detailed information, and make it time-consuming to find a rental property. Renters also face issues like scammers asking for deposits before viewings and unexpected problems after signing a lease due to differing expectations. A clear, reliable rating system could help address these problems. This project aims to create an app that provides structured feedback and ratings for tenants, property agents, and landlords, focusing on transparency, fairness, and constructive insights to improve the rental process for all parties involved.
+
+## Objective of the Project
+To create an app that allows tenants, property agents, and landlords to rate rental properties based on key criteria such as property condition, pricing, and communication. The goal is to provide clear, structured feedback to improve decision-making and enhance trust in the rental process.
 
 ## Features Wishlist  
+
+## Key Features
+1.	Tenant Profile:
+Tenants can create and maintain their own profiles, including information such as rental history, preferred property types, budget, and location preferences. This allows landlords and agents to view potential renters' background, making the rental process more efficient.
+2.	Agent and Landlord Profiles:
+Property agents and landlords can create profiles to track their listings and ratings, ensuring transparency and accountability.
+3.	Property Ratings:
+Users (tenants, property agents, landlords) can rate rental properties based on multiple criteria such as property condition, pricing, and communication etc.
+4.	Structured Feedback:
+Tenants, property agents, and landlords can leave detailed feedback to provide more context to the ratings, ensuring reviews are informative and constructive.
+5.	Property Comparison Tool:
+A feature that allows tenants to compare multiple properties based on their ratings, price, and feedback to make more informed decisions.
+6.	Verification Process:
+To ensure authenticity, renters and property agents can verify their identities and past experiences, reducing the chances of fake reviews or scams.
+
+7.	Search and Filter Options:
+Tenants can search for properties based on key criteria such as available date, location, price range, property type, and ratings to find the best options faster.
+8.	Notification System:
+Users will receive updates on new listings, rental suggestions, lease ending or renewal due, rating updates, and messages from property agents or landlords.
+9.	Report and Dispute System:
+Tenants can flag inappropriate or misleading ratings and reviews, ensuring the platform remains trustworthy.
 
 ## Concerns 
 - How do we get the data for the application
