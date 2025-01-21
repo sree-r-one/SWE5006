@@ -59,7 +59,7 @@ Singapore is a metropolitan city with the very rich culture and history. It also
    
 **5. Property Comparison Tool:**
    A feature that allows tenants to compare (multiple properties? or within a building?) based on their ratings, price, and feedback to make more informed decisions.
-   
+      
 **6. Verification Process:**
    To ensure authenticity, renters and property agents can verify their identities and past experiences, reducing the chances of fake reviews or scams.
 
@@ -77,14 +77,39 @@ Singapore is a metropolitan city with the very rich culture and history. It also
     
 **11. Insights for Agents:**
     Property agents can access detailed reports and statistics on their listing's performance like number of views,enquires,rating and feedback.This feature helps agents understand market trends,improve their services and optimize their property listings.
+    
+## Ideas
+Rating UI Sample
+![image](https://github.com/user-attachments/assets/1dda8a16-2d20-4d7c-be49-9a192ab6386f)
+Maybe we don't need to reveal exact location?
+![image](https://github.com/user-attachments/assets/8a4a9099-9ef3-449c-a754-66c2f776edfa)
+Price comparison
+![image](https://github.com/user-attachments/assets/53364ac2-01b6-4f32-816d-c49e55f45fa3)
+
 
 ## Features Wishlist
 
 - Introduce a chatbot to help users find their room based on their preferences.
 - Maybe need a CMS as well.
 - Tenant / Agent / Landlord ratings.
+  
+## General Architecture: 
+![image](https://github.com/user-attachments/assets/058dfa70-e6f9-434d-9c77-7208ffbfb319)
+
+## Scope of Work:
+Key use case: 
+Tenant 
+- Tenant can post their review of a certain property. 
+- Tenant can view other tenant’s reviews of a certain property. 
+Admin 
+- Admin can delete improper review.
+Usecase:
+
+  
 ## To be
 - Once the project is confirmed, we all can start working on project timeline and plan Agile sprints on each feature.
+- to discuss and create sprint template
+  
 ## Concerns
 
 - How do we get the data for the application
