@@ -13,6 +13,11 @@ Singapore is a metropolitan city with the very rich culture and history. It also
 - Various types of itineraries for different profiles of visitors like honeymoon couples, Parents with infants, Retirees
 - Links to various attractions and its ticketing systems integrated
 
+## Sequence Diagram 
+![sequence-diagram](../img/sequence-diagram.png)
+
+## MVP
+
 > Intitial version of API integration completed at `9-maps-proof-of-concept`
 
 - So theoretically, we should be able to ovelay the information as required.
