@@ -41,7 +41,7 @@ Singapore is a metropolitan city with the very rich culture and history. It also
    There are many property listing platforms, but they often have duplicate listings, lack detailed information, and make it time-consuming to find a rental property. Renters also face issues like scammers asking for deposits before viewings and unexpected problems after signing a lease due to differing expectations. A clear, reliable rating system could help address these problems. This project aims to create an app that provides structured feedback and ratings for tenants, property agents, and landlords, focusing on transparency, fairness, and constructive insights to improve the rental process for all parties involved.
 
 ## Objective of the Project
-   To create an app that allows tenants, property agents, and landlords to rate rental properties based on key criteria such as property condition, pricing, and communication. The goal is to provide clear, structured feedback to improve decision-making and enhance trust in the rental process.
+   To develop a unified/focused platform that allows users to rate and review properties,agents and landlords based on key criteria such as property condition, pricing and communication.The app aims to steamline the rental search process by consolidating listing, providing structured feedback  and improving transparency and trust within the rental ecosystem. 
 
 ## Key Features
 
@@ -64,6 +64,10 @@ Singapore is a metropolitan city with the very rich culture and history. It also
    Users will receive updates on new listings, rental suggestions, lease ending or renewal due, rating updates, and messages from property agents or landlords.
 9. Report and Dispute System:
    Tenants can flag inappropriate or misleading ratings and reviews, ensuring the platform remains trustworthy.
+10. Paperless Contract:
+    Tenants and landlords can sign rental agreement digitally,reducing paperwork and ensuring a secure, effecient leasing process.
+11. Insights for Agents:
+    Property agents can access detailed reports and statistics on their listing's performance like number of views,enquires,rating and feedback.This feature helps agents understand market trends,improve their services and optimize their property listings.
 
 ## Features Wishlist
 
