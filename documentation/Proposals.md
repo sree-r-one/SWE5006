@@ -32,7 +32,7 @@ Singapore is a metropolitan city with the very rich culture and history. It also
 - Is ChatGPT reliable?
 - How do we match the place ChatGPT gives with the actual place? In other words, how to handle the alias name. e.g. ChatGPT gives a place name as "NUS" but the actual name is "National University of Singapore". (if we do need to handle this scenario)
 
-# Property Rental Rating/Review Application (RenterScore)
+# Renter Score (Property Rental Rating Application) 
 
 ## Problem Statement
 
