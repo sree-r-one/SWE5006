@@ -1,4 +1,5 @@
-# Explore Singapore
+<details>
+<summary><H1>Explore Singapore</H1></summary>
 
 Singapore is a metropolitan city with the very rich culture and history. It also has a lot of attractions, indoor and outdoor to explore. XploreSingpore is an application is an application that will enable Locals and Visitors alike to explore about Singapore in as many layers as they like and learn more.
 
@@ -31,8 +32,10 @@ Singapore is a metropolitan city with the very rich culture and history. It also
 - Admin portal feature to add articles and content
 - Is ChatGPT reliable?
 - How do we match the place ChatGPT gives with the actual place? In other words, how to handle the alias name. e.g. ChatGPT gives a place name as "NUS" but the actual name is "National University of Singapore". (if we do need to handle this scenario)
-
-# Renter Score (Property Rental Rating Application) 
+</details>
+<details>
+   
+<summary><H1>Renter Score (Property Rental Rating Application)</H1></summary>
 
 ## Overview
    There are numerous property listings platforms but they lack a unified and reliable rating systems to evaluate properties,agents or landlords.Additionally the process is time-consuming as users often have to nagivate through multiple platforms to find suitable options. 
@@ -117,8 +120,11 @@ Usecase:
 - How do we manage duplicate entries
 - How do we identify the property? Because there is no house number like #21-3-304 on the platform. (maybe due to privacy protection? landloard might not want to disclose the exact location)
 - Are ratings sufficient enough to be used for comparison? because the lease term is long and not everyone want to rate after move out.
+- 
+</details>
 
-# ~Food and Workout Recommender System~
+<details>
+<Summary><H1><del>Food and Workout Recommender System</del></H1></Summary>
 
 A lot of people are having a tough time having a healthy life, including maintaining weight and an active lifestyle.
 
@@ -138,7 +144,9 @@ The application can have the following features
 2. [Gym API](https://data.gov.sg/datasets?topics=health&page=1&resultId=d_b3ae090692ecf632116c9885cfbd3424)
 3. [Parks API](https://data.gov.sg/datasets?topics=health&page=1&resultId=d_99b71f5d34cf57a3a592fbfdef1f42b6)
 
-# ~Dashboard Application~
+</details>
+<details>
+<Summary><H1><del>Dashboard Application</del></H1></Summary>
 
 A tool to visualise the different types of data and auto generate reports for a company XYZ
 
@@ -185,11 +193,14 @@ A tool to visualise the different types of data and auto generate reports for a 
 ## Example
 
 ![conti-dashboard-app](../img/conti-dashboard-app.jpg)
-
-# ~ROS Control Interface~
+</details>
+<details>
+<Summary><H1><del>ROS Control Interface</del></H1></Summary>
 
 A Tool to control the interface between a ROS operating system in a Robot)
-
-# ~A Mental Health Support Chatbot~
+</details>
+<details>
+<Summary><H1><del>A Mental Health Support Chatbot</del></H1></Summary>
 
 A Web application that will help people have a voice to listen to, powered by AI
+</details>
