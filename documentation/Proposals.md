@@ -38,35 +38,44 @@ Singapore is a metropolitan city with the very rich culture and history. It also
    There are numerous property listings platforms but they lack a unified and reliable rating systems to evaluate properties,agents or landlords.Additionally the process is time-consuming as users often have to nagivate through multiple platforms to find suitable options. 
 
 ## Problem Statement
-   There are many property listing platforms, but they often have duplicate listings, lack detailed information, and make it time-consuming to find a rental property. Renters also face issues like scammers asking for deposits before viewings and unexpected problems after signing a lease due to differing expectations. A clear, reliable rating system could help address these problems. This project aims to create an app that provides structured feedback and ratings for tenants, property agents, and landlords, focusing on transparency, fairness, and constructive insights to improve the rental process for all parties involved.
+   There are many property listing platforms, but they often have duplicate listings, lack detailed information, and make it time-consuming to find a rental property. Renters also face issues like scammers asking for deposits before viewings and unexpected problems after signing a lease due to differing expectations. A clear, reliable rating system could help address these problems.<del> This project aims to create an app that provides structured feedback and ratings for tenants, property agents, and landlords, focusing on transparency, fairness, and constructive insights to improve the rental process for all parties involved.</del>
 
 ## Objective of the Project
    To develop a unified/focused platform that allows users to rate and review properties,agents and landlords based on key criteria such as property condition, pricing and communication.The app aims to steamline the rental search process by consolidating listing, providing structured feedback  and improving transparency and trust within the rental ecosystem. 
 
 ## Key Features
 
-### 1. Tenant Profile:
+**1. Tenant Profile:**
    Tenants can create and maintain their own profiles, including information such as rental history, preferred property types, budget, and location preferences. This allows landlords and agents to view potential renters' background, making the rental process more efficient.
-<em> 2. Agent and Landlord Profiles: </em>
+   
+**2. Agent and Landlord Profiles:**
    Property agents and landlords can create profiles to track their listings and ratings, ensuring transparency and accountability.
-3. Property Ratings:
+   
+**3. Property Ratings:**
    Users (tenants, property agents, landlords) can rate rental properties based on multiple criteria such as property condition, pricing, and communication etc.
-4. Structured Feedback:
+   
+**4. Structured Feedback:**
    Tenants, property agents, and landlords can leave detailed feedback to provide more context to the ratings, ensuring reviews are informative and constructive.
-5. Property Comparison Tool:
-   A feature that allows tenants to compare multiple properties based on their ratings, price, and feedback to make more informed decisions.
-6. Verification Process:
+   
+**5. Property Comparison Tool:**
+   A feature that allows tenants to compare (multiple properties? or within a building?) based on their ratings, price, and feedback to make more informed decisions.
+   
+**6. Verification Process:**
    To ensure authenticity, renters and property agents can verify their identities and past experiences, reducing the chances of fake reviews or scams.
 
-7. Search and Filter Options:
+**7. Search and Filter Options:**
    Tenants can search for properties based on key criteria such as available date, location, price range, property type, and ratings to find the best options faster.
-8. Notification System:
-   Users will receive updates on new listings, rental suggestions, lease ending or renewal due, rating updates, and messages from property agents or landlords.
-9. Report and Dispute System:
+   
+**8. Notification System:**
+   Tenants will receive updates on new listings, rental suggestions, lease ending or renewal due, rating updates, and messages from property agents or landlords.
+   
+**9. Report and Dispute System:**
    Tenants can flag inappropriate or misleading ratings and reviews, ensuring the platform remains trustworthy.
-10. Paperless Contract:
+   
+**10. Paperless Contract:**
     Tenants and landlords can sign rental agreement digitally,reducing paperwork and ensuring a secure, effecient leasing process.
-11. Insights for Agents:
+    
+**11. Insights for Agents:**
     Property agents can access detailed reports and statistics on their listing's performance like number of views,enquires,rating and feedback.This feature helps agents understand market trends,improve their services and optimize their property listings.
 
 ## Features Wishlist
@@ -74,7 +83,8 @@ Singapore is a metropolitan city with the very rich culture and history. It also
 - Introduce a chatbot to help users find their room based on their preferences.
 - Maybe need a CMS as well.
 - Tenant / Agent / Landlord ratings.
-
+## To be
+- Once the project is confirmed, we all can start working on project timeline and plan Agile sprints on each feature.
 ## Concerns
 
 - How do we get the data for the application
