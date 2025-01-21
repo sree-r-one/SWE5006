@@ -42,10 +42,10 @@ Singapore is a metropolitan city with the very rich culture and history. It also
 
 ## Objective of the Project
    To develop a unified/focused platform that allows users to rate and review properties,agents and landlords based on key criteria such as property condition, pricing and communication.The app aims to steamline the rental search process by consolidating listing, providing structured feedback  and improving transparency and trust within the rental ecosystem. 
-==highlight==
+
 ## Key Features
 
-*1. Tenant Profile:*
+### 1. Tenant Profile:
    Tenants can create and maintain their own profiles, including information such as rental history, preferred property types, budget, and location preferences. This allows landlords and agents to view potential renters' background, making the rental process more efficient.
 3. Agent and Landlord Profiles:
    Property agents and landlords can create profiles to track their listings and ratings, ensuring transparency and accountability.
