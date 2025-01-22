@@ -131,27 +131,30 @@ Usecase:
    - I think social media kind of app more or less face this problem right?
  
 ## Timeline
-Professor mentioned in PPT that about 10 man-days of effort per participant is expected. 
-8 hours per day * 10 days = 80 hours works.
-80 hours / 17 weeks = about 5 hours per week.
-Week	Start Date	End Date
-Proposal Submission	2025-01-24	 
-Proposal Review	2025-01-31	 
-0	2025-02-03	2025-02-09
-1	2025-02-10	2025-02-16
-2	2025-02-17	2025-02-23
-3	2025-02-24	2025-03-02
-4	2025-03-03	2025-03-09
-5	2025-03-10	2025-03-16
-6	2025-03-17	2025-03-23
-7	2025-03-24	2025-03-30
-8	2025-03-31	2025-04-06
-9	2025-04-07	2025-04-13
-10	2025-04-14	2025-04-20
-11	2025-04-21	2025-04-27
-12	2025-04-28	2025-05-04
-Project Presentation	2025-05-05	2025-05-11
-Report Submission	2025-05-12	2025-05-18
+
+- Professor mentioned in PPT that about 10 man-days of effort per participant is expected. 
+- 8 hours per day * 10 days = 80 hours works.
+- 80 hours / 17 weeks = about 5 hours per week. (including meeting, planning, coding, discussion, review, testing, documentation...)
+
+| Week | Start Date | End Date |
+| ---- | ---------- | -------- |
+|Proposal Submission|2025-01-16|2025-01-24|	 
+|Proposal Revie|2025-01-25|2025-01-31|	 
+|0  |2025-02-03|    2025-02-09|
+|1	|2025-02-10|	2025-02-16|
+|2	|2025-02-17|	2025-02-23|
+|3	|2025-02-24|	2025-03-02|
+|4	|2025-03-03|	2025-03-09|
+|5	|2025-03-10|	2025-03-16|
+|6	|2025-03-17|	2025-03-23|
+|7	|2025-03-24|	2025-03-30|
+|8	|2025-03-31|	2025-04-06|
+|9	|2025-04-07|	2025-04-13|
+|10	|2025-04-14|	2025-04-20|
+|11	|2025-04-21|	2025-04-27|
+|12 |2025-04-28|	2025-05-04|
+|Project Presentation|2025-05-05|2025-05-11|
+|Report Submission|2025-05-12|2025-05-18|
 
 </details>
 
