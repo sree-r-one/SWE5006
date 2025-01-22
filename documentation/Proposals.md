@@ -5,10 +5,10 @@ Singapore is a metropolitan city with the very rich culture and history. It also
 
 ## Use Cases
 
-. User can explore the app without Sign-in.
-. For Tourists: Discover attractions, plan trips, and get around Singapore easily.
-. For Locals: Find new places to visit, check out events, or explore dining options.
-. User can do asking chatbot, making planner, bookmarks, reviews rating and comments via creating an account.
+- User can explore the app without Sign-in.
+- For Tourists: Discover attractions, plan trips, and get around Singapore easily.
+- For Locals: Find new places to visit, check out events, or explore dining options.
+- User can do asking chatbot, making planner, bookmarks, reviews rating and comments via creating an account.
 
 ## Features
 
