@@ -121,11 +121,14 @@ Usecase:
 ## Concerns
 
 - How do we get the data for the application
+   - we probable can only mock up by ourself. as review is the key feature of the platform, and existing platform don't have reivew data.
 - Compliance and legal aspect of crawling data across different property sites
+   - if we don't really publish it into public place, it should be ok, this is just a school project. 
 - How do we manage duplicate entries
+   - how to identify each address, we can discuss which level of accurate it need to be. most of the address of Singapore are structural, they follow the structure: street -> block -> unit -> floor (postal code is actually optional for most of the cases) 
 - How do we identify the property? Because there is no house number like #21-3-304 on the platform. (maybe due to privacy protection? landloard might not want to disclose the exact location)
 - Are ratings sufficient enough to be used for comparison? because the lease term is long and not everyone want to rate after move out.
-- 
+   - I think social media kind of app more or less face this problem right? 
 </details>
 
 <details>
