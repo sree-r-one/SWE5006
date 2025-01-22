@@ -1,7 +1,14 @@
 <details>
 <summary><H1>Explore Singapore</H1></summary>
 
-Singapore is a metropolitan city with the very rich culture and history. It also has a lot of attractions, indoor and outdoor to explore. XploreSingpore is an application is an application that will enable Locals and Visitors alike to explore about Singapore in as many layers as they like and learn more.
+Singapore is a metropolitan city with the very rich culture and history. It also has a lot of attractions, indoor and outdoor to explore. XploreSingpore is a comprehensive platform designed to help both tourists and locals explore Singapore. This app would showcase everything Singapore has to offer, from its iconic landmarks like Marina Bay Sands and Gardens by the Bay to hidden gems such as lesser-known parks, hawker centres, and cultural hubs. Users can view customized itineraries, get real-time travel tips, and even learn about events and promotions in the city.
+
+## Use Cases
+
+. User can explore the app without Sign-in.
+. For Tourists: Discover attractions, plan trips, and get around Singapore easily.
+. For Locals: Find new places to visit, check out events, or explore dining options.
+. User can do asking chatbot, making planner, bookmarks, reviews rating and comments via creating an account.
 
 ## Features
 
@@ -12,6 +19,15 @@ Singapore is a metropolitan city with the very rich culture and history. It also
 - There will also be a option to find the vibrant food scenary
 - Various types of itineraries for different profiles of visitors like honeymoon couples, Parents with infants, Retirees
 - Links to various attractions and its ticketing systems integrated
+- Showcase major attractions by categories:
+  . National landmarks such as Marina Bay Sands, Gardens by the Bay, Sentosa, Merlion Park.
+  . Cultural spots like Chinatown, Little India, Kampong Glam.
+  . Historical (e.g: National Gallery, Asian Civilisations Museum).
+  . Nature (eg: Bukit Timah Nature Reserve, East Coast Park).
+  . Foods (e.g: famous hawker centres, Michelin-starred stalls).
+  . Shopping (e.g: Orchard Road, Bugis Street).
+- Provide key information:
+  . Entry fees, timings, nearby transportation options, and facilities.
 
 ## Sequence Diagram 
 ![sequence-diagram](../img/sequence-diagram.png)
