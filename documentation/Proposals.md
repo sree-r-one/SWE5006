@@ -20,14 +20,14 @@ Singapore is a metropolitan city with the very rich culture and history. It also
 - Various types of itineraries for different profiles of visitors like honeymoon couples, Parents with infants, Retirees
 - Links to various attractions and its ticketing systems integrated
 - Showcase major attractions by categories:
-  . National landmarks such as Marina Bay Sands, Gardens by the Bay, Sentosa, Merlion Park.
-  . Cultural spots like Chinatown, Little India, Kampong Glam.
-  . Historical (e.g: National Gallery, Asian Civilisations Museum).
-  . Nature (eg: Bukit Timah Nature Reserve, East Coast Park).
-  . Foods (e.g: famous hawker centres, Michelin-starred stalls).
-  . Shopping (e.g: Orchard Road, Bugis Street).
+  1. National landmarks such as Marina Bay Sands, Gardens by the Bay, Sentosa, Merlion Park.
+  2. Cultural spots like Chinatown, Little India, Kampong Glam.
+  3. Historical (e.g: National Gallery, Asian Civilisations Museum).
+  4. Nature (eg: Bukit Timah Nature Reserve, East Coast Park).
+  5. Foods (e.g: famous hawker centres, Michelin-starred stalls).
+  6. Shopping (e.g: Orchard Road, Bugis Street).
 - Provide key information:
-  . Entry fees, timings, nearby transportation options, and facilities.
+  1. Entry fees, timings, nearby transportation options, and facilities.
 
 ## Sequence Diagram 
 ![sequence-diagram](../img/sequence-diagram.png)
