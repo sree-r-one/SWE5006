@@ -1,4 +1,8 @@
 /** @type {import('tailwindcss').Config} */
+import forms from '@tailwindcss/forms';
+import typography from '@tailwindcss/typography';
+
+
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
@@ -70,5 +74,6 @@ export default {
       },
     },
   },
-  plugins: [require("@tailwindcss/typography"), require("@tailwindcss/forms")],
+  // plugins: [require("@tailwindcss/typography"), require("@tailwindcss/forms")],
+  plugins: [typography, forms],
 };
