@@ -2,7 +2,6 @@
 import forms from '@tailwindcss/forms';
 import typography from '@tailwindcss/typography';
 
-
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
@@ -33,11 +32,11 @@ export default {
         h2: "2.5rem", // 40px
       },
       colors: {
-        lutapiPurpleDark: "hsl(265, 60%, 32%)",
-        lutapiPurple: "hsl(265, 70%, 42%)",
-        lutapiPurpleLight: "hsl(265, 70%, 52%)",
-        lutapiPurpleVeryLight: "hsl(265, 90%, 95%)",
-        lutapiAccentPurple: "hsl(265, 100%, 62%)",
+        xploreSGPurpleDark: "hsl(265, 60%, 32%)",
+        xploreSGPurple: "hsl(265, 70%, 42%)",
+        xploreSGPurpleLight: "hsl(265, 70%, 52%)",
+        xploreSGPurpleVeryLight: "hsl(265, 90%, 95%)",
+        xploreSGAccentPurple: "hsl(265, 100%, 62%)",
         brightRed: "hsl(12, 88%, 59%)",
         darkBlue: "hsl(228, 39%, 23%)",
         darkGrayishBlue: "hsl(227, 12%, 61%)",
@@ -74,6 +73,5 @@ export default {
       },
     },
   },
-  // plugins: [require("@tailwindcss/typography"), require("@tailwindcss/forms")],
   plugins: [typography, forms],
 };
