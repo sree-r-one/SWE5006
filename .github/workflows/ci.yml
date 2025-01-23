@@ -18,11 +18,17 @@ jobs:
         with:
           node-version: '22'
 
+      - name: Change to frontend directory
+        run: cd frontend
+
       - name: Install dependencies
         run: npm install
+        working-directory: frontend
 
       - name: Run tests
         run: npm test
+        working-directory: frontend
 
       - name: Build project
         run: npm run build
+        working-directory: frontend
