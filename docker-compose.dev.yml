@@ -1,0 +1,19 @@
+version: "3.8"
+
+services:
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile.dev # Specify the development Dockerfile
+    container_name: frontend-lutap.ai-dev
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    networks:
+      - mynetwork
+
+networks:
+  mynetwork:
+    driver: bridge
