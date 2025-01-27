@@ -5,14 +5,33 @@ services:
     build:
       context: ./frontend
       dockerfile: Dockerfile.dev # Specify the development Dockerfile
-    container_name: frontend-lutap.ai-dev
+    container_name: frontend-xploresg-dev
     ports:
       - "3000:3000"
     volumes:
       - ./frontend:/app
-      - /app/node_modules
+      - frontend_node_modules:/app/node_modules
+
     networks:
       - mynetwork
+    depends_on:
+      - backend
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.dev # Specify the development Dockerfile
+    container_name: backend-xploresg-dev
+    command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app
+    networks:
+      - mynetwork
+
+volumes:
+  frontend_node_modules:
 
 networks:
   mynetwork:
