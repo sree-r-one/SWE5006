@@ -36,7 +36,7 @@ export default defineConfig(({ mode }) => {
           manualChunks: {
             // Separate large dependencies into chunks for better caching
             react: ["react", "react-dom"],
-            vendor: ["uuid"], // Example: Include other shared libraries
+            //! vendor: ["uuid"], // Example: Include other shared libraries
           },
         },
       },
