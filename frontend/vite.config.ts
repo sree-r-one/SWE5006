@@ -36,12 +36,15 @@ export default defineConfig(({ mode }) => {
           manualChunks: {
             // Separate large dependencies into chunks for better caching
             react: ["react", "react-dom"],
-            vendor: ["uuid"], // Example: Include other shared libraries
+            // ! Restore this if needed
+            //! vendor: ["uuid"], // Example: Include other shared libraries
           },
         },
       },
       cssCodeSplit: true, // Split CSS into separate files
-      minify: mode === "production" ? "terser" : false, // Minify only in production
+      // ! Restore this if needed
+      //! minify: mode === "production" ? "terser" : false, // Minify only in production
+      minify: mode === "production" ? "esbuild" : false, // Use esbuild instead of terser
       terserOptions: {
         compress: {
           drop_console: true, // Remove console logs in production
