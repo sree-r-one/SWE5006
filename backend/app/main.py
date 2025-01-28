@@ -24,7 +24,7 @@ app.add_middleware(
 
 @app.get("/")
 def read_root():
-    return {"Hello": "World I am from FastAPI..."}
+    return {"message": "Hello World"}
 
 
 if __name__ == "__main__":
