@@ -5,11 +5,14 @@ on:
     branches:
       - master
       - "XPLSG-**" # This will trigger the workflow for all branches that start with XPLSG-
-
+    # paths:
+    #   - backend/** # This will trigger the workflow for all changes in the frontend directory
   pull_request:
     branches:
       - master
       - "XPLSG-**" # This will trigger the workflow for all branches that start with XPLSG-
+    # paths:
+    #   - backend/** # This will trigger the workflow for all changes in the frontend directory
 
 jobs:
   backend-tests:
